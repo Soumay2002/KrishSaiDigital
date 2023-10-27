@@ -1,0 +1,8 @@
+body{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: bisque;
+    color: brown;
+    font-weight: bold;
+}
